@@ -1,0 +1,62 @@
+[
+    {
+        "nombre": "compramostucoche.es",
+        "ubicacion": "España",
+        "puntuacion": 4.6,
+        "pagina_web": "https://www.compramostucoche.es"
+    },
+    {
+        "nombre": "OcasionPlus",
+        "ubicacion": "Avenida Juan Carlos I 30, Collado Villalba, España",
+        "puntuacion": 4.1,
+        "pagina_web": "https://ocasionplus.com"
+    },
+    {
+        "nombre": "Autohero España",
+        "ubicacion": "Calle Rosario Pino 14-16 Planta 1, Madrid, España",
+        "puntuacion": 4.2,
+        "pagina_web": "https://autohero.com/es"
+    },
+    {
+        "nombre": "Carwow ES",
+        "ubicacion": "C. de Serrano Anguita, 13, Madrid, España",
+        "puntuacion": 4.4,
+        "pagina_web": "https://www.carwow.es"
+    },
+    {
+        "nombre": "Carplus España",
+        "ubicacion": "España",
+        "puntuacion": 4.6,
+        "pagina_web": "https://carplus.es"
+    },
+    {
+        "nombre": "Hr Motor",
+        "ubicacion": "España",
+        "puntuacion": 3.4,
+        "pagina_web": "https://www.hrmotor.com"
+    },
+    {
+        "nombre": "Clicars",
+        "ubicacion": "Av. Laboral 10, Madrid, España",
+        "puntuacion": 4.3,
+        "pagina_web": "https://www.clicars.com"
+    },
+    {
+        "nombre": "CarNext.com España",
+        "ubicacion": "España",
+        "puntuacion": 4.7,
+        "pagina_web": "https://carnext.com/es-es"
+    },
+    {
+        "nombre": "Autobiz SA",
+        "ubicacion": "España",
+        "puntuacion": 2.4,
+        "pagina_web": "https://autobiz-ocasion.es"
+    },
+    {
+        "nombre": "Garage Club",
+        "ubicacion": "Carrer Catalunya, 37, Les Franqueses del Vallés (Barcelona), España",
+        "puntuacion": 3.9,
+        "pagina_web": "https://garageclub.es"
+    }
+]

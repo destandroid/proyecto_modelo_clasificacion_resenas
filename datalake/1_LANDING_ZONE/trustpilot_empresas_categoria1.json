@@ -1,0 +1,62 @@
+[
+    {
+        "nombre": "Aplazame",
+        "ubicacion": "Calle Ulises 16-18, Madrid, España",
+        "puntuacion": 4.8,
+        "pagina_web": "https://aplazame.com"
+    },
+    {
+        "nombre": "Bnext",
+        "ubicacion": "Calle de Zurbano, 71, Madrid, España",
+        "puntuacion": 1.5,
+        "pagina_web": "https://www.bnext.es"
+    },
+    {
+        "nombre": "CaixaBank",
+        "ubicacion": "Calle Pintor Sorolla, 2-4, Valencia, España",
+        "puntuacion": 1.2,
+        "pagina_web": "https://www.caixabank.es"
+    },
+    {
+        "nombre": "Crealsa",
+        "ubicacion": "Carrer de Menorca 19, Planta 7ª (Edificio Aqua), València, España",
+        "puntuacion": 4.4,
+        "pagina_web": "https://www.crealsa.es"
+    },
+    {
+        "nombre": "BBVA España",
+        "ubicacion": "España",
+        "puntuacion": 1.3,
+        "pagina_web": "https://bbva.es"
+    },
+    {
+        "nombre": "Banco Sabadell",
+        "ubicacion": "España",
+        "puntuacion": 1.2,
+        "pagina_web": "https://bancsabadell.com"
+    },
+    {
+        "nombre": "ING España",
+        "ubicacion": "Calle Vía de los Poblados, Madrid, España",
+        "puntuacion": 1.2,
+        "pagina_web": "https://ing.es"
+    },
+    {
+        "nombre": "Cetelem España",
+        "ubicacion": "España",
+        "puntuacion": 4.2,
+        "pagina_web": "https://www.cetelem.es"
+    },
+    {
+        "nombre": "EVO Banco",
+        "ubicacion": "Don Ramón de la Cruz 84, Madrid, España",
+        "puntuacion": 3.1,
+        "pagina_web": "https://evobanco.com"
+    },
+    {
+        "nombre": "Santander España",
+        "ubicacion": "España",
+        "puntuacion": 1.3,
+        "pagina_web": "https://www.bancosantander.es"
+    }
+]

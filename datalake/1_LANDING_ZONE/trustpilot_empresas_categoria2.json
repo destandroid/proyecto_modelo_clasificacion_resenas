@@ -1,0 +1,62 @@
+[
+    {
+        "nombre": "Heymondo Seguros de Viaje",
+        "ubicacion": "Calle Alaba, número 140, 2º 4ª, Barcelona, España",
+        "puntuacion": 4.5,
+        "pagina_web": "https://heymondo.es"
+    },
+    {
+        "nombre": "Intermundial Seguros de viaje",
+        "ubicacion": "Calle de Irún, 7, Madrid, España",
+        "puntuacion": 4.5,
+        "pagina_web": "https://intermundial.es"
+    },
+    {
+        "nombre": "IATI Seguros",
+        "ubicacion": "Avinguda Diagonal 622, Barcelona, España",
+        "puntuacion": 4.4,
+        "pagina_web": "https://iatiseguros.com"
+    },
+    {
+        "nombre": "Abbeygate Seguros España",
+        "ubicacion": "Ctra Nacional 340, KM148.5, Estepona, España",
+        "puntuacion": 4.8,
+        "pagina_web": "https://www.abbeygateinsure.com"
+    },
+    {
+        "nombre": "MAPFRE España",
+        "ubicacion": "Carretera de Pozuelo 52, Majadahonda, España",
+        "puntuacion": 1.5,
+        "pagina_web": "https://mapfre.es"
+    },
+    {
+        "nombre": "Fit 2 Trip",
+        "ubicacion": "Irun 7, Madrid, España",
+        "puntuacion": 4.5,
+        "pagina_web": "https://www.fit2trip.es"
+    },
+    {
+        "nombre": "Pelayo Mutua de Seguros",
+        "ubicacion": "Calle de Santa Engracia 67, Madrid, España",
+        "puntuacion": 1.1,
+        "pagina_web": "https://pelayo.com"
+    },
+    {
+        "nombre": "Zurich",
+        "ubicacion": "Via Augusta 200, Barcelona, España",
+        "puntuacion": 1.1,
+        "pagina_web": "https://zurich.es"
+    },
+    {
+        "nombre": "Chapka Seguros",
+        "ubicacion": "C/ Velázquez, 86D, Madrid, España",
+        "puntuacion": 4.5,
+        "pagina_web": "https://www.chapkadirect.es"
+    },
+    {
+        "nombre": "Divina Seguros",
+        "ubicacion": "España",
+        "puntuacion": 4.1,
+        "pagina_web": "https://www.divinaseguros.com"
+    }
+]
