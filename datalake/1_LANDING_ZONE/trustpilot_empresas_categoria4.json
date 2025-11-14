@@ -1,0 +1,62 @@
+[
+    {
+        "nombre": "Bershka",
+        "ubicacion": "España",
+        "puntuacion": 3.1,
+        "pagina_web": "https://www.bershka.com"
+    },
+    {
+        "nombre": "latostadora",
+        "ubicacion": "España",
+        "puntuacion": 4.6,
+        "pagina_web": "https://latostadora.com"
+    },
+    {
+        "nombre": "Hawkers",
+        "ubicacion": "España",
+        "puntuacion": 4.3,
+        "pagina_web": "https://hawkersco.com"
+    },
+    {
+        "nombre": "Dressinn",
+        "ubicacion": "Calle Pirineus 9, Celrà, España",
+        "puntuacion": 4.0,
+        "pagina_web": "https://dressinn.com"
+    },
+    {
+        "nombre": "ZARA",
+        "ubicacion": "España",
+        "puntuacion": 1.3,
+        "pagina_web": "https://www.zara.com"
+    },
+    {
+        "nombre": "TWOTHIRDS",
+        "ubicacion": "Carrer de Morales 21-27, Local K, , Barcelona, España",
+        "puntuacion": 4.5,
+        "pagina_web": "https://twothirds.com"
+    },
+    {
+        "nombre": "Streetprorunning",
+        "ubicacion": "España",
+        "puntuacion": 4.7,
+        "pagina_web": "https://streetprorunning.com"
+    },
+    {
+        "nombre": "Scuffers",
+        "ubicacion": "Pozuelo de Alarcón, Madrid, España",
+        "puntuacion": 3.6,
+        "pagina_web": "https://scuffers.es"
+    },
+    {
+        "nombre": "Funidelia",
+        "ubicacion": "España",
+        "puntuacion": 4.3,
+        "pagina_web": "https://funidelia.com"
+    },
+    {
+        "nombre": "Vinted ES",
+        "ubicacion": "España",
+        "puntuacion": 4.2,
+        "pagina_web": "https://vinted.es"
+    }
+]
