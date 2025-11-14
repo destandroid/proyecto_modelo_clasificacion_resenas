@@ -1,5 +1,5 @@
 
-# 📘 Proyecto Trustpilot – Scraping, ETL y Dashboard Interactivo
+# 📘 Proyecto Procesamiento de Reseñas de Trustpilot mediante Scraping Web
 
 Este proyecto implementa un flujo completo de **extracción, limpieza, transformación y visualización** de reseñas obtenidas desde la plataforma **Trustpilot**. La solución combina scraping automatizado, procesamiento estructurado y un dashboard interactivo orientado al análisis de la experiencia del cliente.
 
